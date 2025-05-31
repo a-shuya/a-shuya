@@ -1,16 +1,23 @@
-## Hi there 👋
+# Portfolio
 
-<!--
-**a-shuya/a-shuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+大学・大学院で木材物理学の研究をしていました。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- C/C++
+- Rust
+
+---
+
+## Awards & Certifications
+- 2024年　統計検定準1級
+- 2024年　応用情報技術者
+- 2025年　ISWST2025 Best Poster Award
+- 2025年　東京大学大学院 農学生命科学研究科 研究科長賞
+
+---
+
+## contact
+メール: ashuya.work@gmail.com
