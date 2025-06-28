@@ -9,5 +9,16 @@
 - C/C++
 - Rust
 
+---
 
+## Awards & Certifications
+- 2024年　統計検定準1級
+- 2024年　応用情報技術者
+- 2025年　ISWST2025 Best Poster Award
+- 2025年　東京大学大学院 農学生命科学研究科 研究科長賞
+
+---
+
+## contact
+メール: ashuya.work[at]gmail.com
 ---
