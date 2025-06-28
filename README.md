@@ -18,7 +18,3 @@
 - 2025年　東京大学大学院 農学生命科学研究科 研究科長賞
 
 ---
-
-## contact
-メール: ashuya.work[at]gmail.com
----
